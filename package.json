@@ -1,0 +1,10 @@
+{
+  "name": "flowise-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx flowise start"
+  },
+  "dependencies": {
+    "flowise": "^1.0.0"
+  }
+}
